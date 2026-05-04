@@ -18,5 +18,5 @@ features:
   - title: Geschäftlicher Kontakt
     details: friedrich.beckmann2000@gmail.com, linkedin friedrich-beckmann-72a600208
   - title: Sociale Media
-    details: Instagram friedrich_jb, x @Friedri23557644
+    details: Instagram friedrich_jb
 ---

@@ -21,7 +21,7 @@ Digitaler Paperprototype:
 Ausgedachter Stereotype / Nutzer der App
 ![Document Stereotyp](Stereotyp.png)
 
-### Ausgwählte Screenshots aus der App:
+### Ausgwählte Screenshots aus der App
 
 - Registrierung
   ![Screenshot SignUP](Registrierung%20mit%20Eingabe.png)

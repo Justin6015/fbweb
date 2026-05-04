@@ -1,6 +1,6 @@
 # Snake
 
-- <Badge type="info" text="Jahr: 2018" /> 
+- <Badge type="info" text="Jahr: 2018" />
   <Badge type="tip" text="FOS (Schule)" />
 
 Erstes großes Projekt.  
