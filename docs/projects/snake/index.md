@@ -9,7 +9,7 @@ Spiel in eigenem Fenster.
 Teil eines Gemeinschaftsprojekt in meiner Fachoberschule in einem Team zu dritt.  
 Jeder aus dem Team hat ein eigenes Spiel entwickelt. Welche alle über ein Hub erreichbar waren.
 
-Technologien:
+## Technologien
 
 - IDE: NetBeans
 - Java

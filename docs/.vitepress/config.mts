@@ -21,11 +21,19 @@ export default defineConfig({
           { text: "Markdown Examples", link: "/markdown-examples" },
           { text: "Runtime API Examples", link: "/api-examples" },
           {
-            text: "Projekte",
+            text: "Informatik Projekte",
             items: [
               { text: "Übersicht Projekte", link: "/projects" },
               { text: "Snake", link: "/projects/snake" },
               { text: "FB Web V1", link: "/projects/fbwebv1" },
+              {
+                text: "Financial Statment Desktop",
+                link: "/projects/financialStatmentDesktop",
+              },
+              {
+                text: "Financial Statment Web",
+                link: "/projects/financialStatmentWeb",
+              },
             ],
           },
         ],
