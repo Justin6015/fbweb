@@ -20,6 +20,7 @@ export default defineConfig({
           { text: "Markdown Examples", link: "/markdown-examples" },
           { text: "Runtime API Examples", link: "/api-examples" },
           { text: "Projekte", link: "/projects" },
+          { text: "Snake", link: "/projects/snake.md" },
         ],
       },
     ],
