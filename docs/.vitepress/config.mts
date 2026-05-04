@@ -10,32 +10,34 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
       { text: "Projekte", link: "/projects" },
     ],
 
     sidebar: [
+      // {
+      //   text: "Examples",
+      //   items: [
+      //     { text: "Runtime API Examples", link: "/api-examples" },
+      //   ],
+      // },
       {
-        text: "Examples",
+        text: "Informatik Projekte",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "Übersicht", link: "/projects" },
+          { text: "Snake", link: "/projects/snake" },
+          { text: "Forex bots", link: "/projects/forexBots" },
+          { text: "1. Webseite", link: "/projects/fbwebv1" },
           {
-            text: "Informatik Projekte",
-            items: [
-              { text: "Übersicht", link: "/projects" },
-              { text: "Snake", link: "/projects/snake" },
-              { text: "Forex bots", link: "/projects/forexBots" },
-              { text: "FB Web V1", link: "/projects/fbwebv1" },
-              {
-                text: "Financial Statment Desktop",
-                link: "/projects/financialStatmentDesktop",
-              },
-              {
-                text: "Financial Statment Web",
-                link: "/projects/financialStatmentWeb",
-              },
-            ],
+            text: "Financial Statment Desktop",
+            link: "/projects/financialStatmentDesktop",
+          },
+          {
+            text: "Financial Statment Web",
+            link: "/projects/financialStatmentWeb",
+          },
+          {
+            text: "WalletX App",
+            link: "/projects/walletX",
           },
         ],
       },
@@ -50,6 +52,7 @@ export default defineConfig({
       { icon: "x", link: "https://x.com/Friedri23557644/" },
       { icon: "instagram", link: "https://www.instagram.com/friedrich_jb/" },
       { icon: "youtube", link: "https://www.youtube.com/@justin_6015" },
+      { icon: "discord", link: "https://discord.com/users/friedrichx" },
     ],
   },
 });

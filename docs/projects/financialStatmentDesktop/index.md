@@ -1,6 +1,7 @@
 # Financial Statement Desktop
 
-Jahr: 2020
+- <Badge type="info" text="Jahr: 2020" />
+  <Badge type="tip" text="Privat" />
 
 Digitale Lösung für die "Finanzübersicht" vom Brettspiel "Cashflow 101".
 

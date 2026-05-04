@@ -1,6 +1,7 @@
 # Forex bots
 
-Jahr: 2019 - 2021
+- <Badge type="info" text="Jahr: 2019 - 2021" />
+  <Badge type="tip" text="Privat" />
 
 Entwicklung von Forex (Devisen) Trading Bots.  
 Als Programmier Anfänger: Alles in einer Datei (1973 Zeilen Code).  

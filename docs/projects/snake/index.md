@@ -1,6 +1,7 @@
 # Snake
 
-Jahr: 2018 November
+- <Badge type="info" text="Jahr: 2018" /> 
+  <Badge type="tip" text="FOS (Schule)" />
 
 Erstes großes Projekt.  
 Game Launcher mit Spiel Menü.  
@@ -14,7 +15,7 @@ Jeder aus dem Team hat ein eigenes Spiel entwickelt. Welche alle über ein Hub e
 - IDE: NetBeans
 - Java
 
-Willst du Snake selber mal spielen? Dann lade dir die .jar herrunter. (Vorraussetzung: Java muss auf deinem Gerät installiert sein)
+Willst du Snake selber mal spielen? Dann lade dir die .jar herrunter. (Vorraussetzung: Java muss auf deinem Gerät installiert sein)  
 <a href="./SnakeFB01.jar" download>Snake.jar herunterladen (97 KB)</a>
 
 ## Screenshots
