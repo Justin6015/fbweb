@@ -20,14 +20,14 @@ Siehe stattdessen "Finanzstatus Desktop for Windows with C#" // TODO link here
 - HTML, CSS
 - MySQL
 
-Schreenshot: Home
+Screenshot: Home
 ![Screenshot Home](./fsw-home.png)
 
-Schreenshot: Anmelden
+Screenshot: Anmelden
 ![Screenshot Login](./fsw-login.png)
 
-Schreenshot: Registrierung
+Screenshot: Registrierung
 ![Screenshot Signup](./fsw-register.png)
 
-Schreenshot: Changelog
+Screenshot: Changelog
 ![Screenshot Changelog](./fsw-changelog.png)
