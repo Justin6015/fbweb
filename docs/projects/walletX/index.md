@@ -27,5 +27,5 @@ Ausgedachter Stereotype / Nutzer der App
   ![Screenshot SignUP](Registrierung%20mit%20Eingabe.png)
 - Home
   ![Screenshot Home](Home-Übersicht%20mit%20Filter.png)
-- Einselansicht Personalausweiß
+- Einzelansicht Personalausweiß
   ![Screenshot ID View](Detailansicht%20NFC%20Aktiv.png)
