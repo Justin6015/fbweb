@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Friedrich Beckmann",
   description: "A Site about Friedrich Beckmann",
   cleanUrls: true,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -19,14 +20,18 @@ export default defineConfig({
         items: [
           { text: "Markdown Examples", link: "/markdown-examples" },
           { text: "Runtime API Examples", link: "/api-examples" },
-          { text: "Projekte", link: "/projects" },
-          { text: "Snake", link: "/projects/snake.md" },
+          {
+            text: "Projekte",
+            items: [
+              { text: "Übersicht Projekte", link: "/projects" },
+              { text: "Snake", link: "/projects/snake" },
+              { text: "FB Web V1", link: "/projects/fbwebv1" },
+            ],
+          },
         ],
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/Justin6015" }],
   },
 });
