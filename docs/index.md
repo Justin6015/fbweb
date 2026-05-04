@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Friedrich Beckmann"
-  text: "A Site about Friedrich Beckmann"
-  tagline: My great project tagline
+  text: "Die offizielle Webseite"
+  tagline: Projekte, Kontaktdaten und mehr
   actions:
     - theme: brand
       text: Informatik Projekte
@@ -15,10 +15,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Geschäftlicher Kontakt
+    details: friedrich.beckmann2000@gmail.com, linkedin friedrich-beckmann-72a600208
+  - title: Sociale Media
+    details: Instagram friedrich_jb, x @Friedri23557644
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

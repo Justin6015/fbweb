@@ -18,6 +18,8 @@ Digitale Lösung für die "Finanzübersicht" vom Brettspiel "Cashflow 101".
 - C#
 - WPF (windows presentation foundation)
 
+## Screenshots
+
 Home
 ![Screenshot Home](fsd-home.png)
 Beruf erstellen

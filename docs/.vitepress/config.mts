@@ -23,8 +23,9 @@ export default defineConfig({
           {
             text: "Informatik Projekte",
             items: [
-              { text: "Übersicht Projekte", link: "/projects" },
+              { text: "Übersicht", link: "/projects" },
               { text: "Snake", link: "/projects/snake" },
+              { text: "Forex bots", link: "/projects/forexBots" },
               { text: "FB Web V1", link: "/projects/fbwebv1" },
               {
                 text: "Financial Statment Desktop",
@@ -40,6 +41,15 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/Justin6015" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/Justin6015" },
+      {
+        icon: "linkedin",
+        link: "https://www.linkedin.com/in/friedrich-beckmann-72a600208/",
+      },
+      { icon: "x", link: "https://x.com/Friedri23557644/" },
+      { icon: "instagram", link: "https://www.instagram.com/friedrich_jb/" },
+      { icon: "youtube", link: "https://www.youtube.com/@justin_6015" },
+    ],
   },
 });
