@@ -35,5 +35,5 @@ maybe change account. with `"firebase login:use xxx@gmail.com`
 3.2.
 
 ```sh
-firebae deploy
+firebase deploy
 ```

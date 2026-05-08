@@ -23,21 +23,21 @@ export default defineConfig({
       {
         text: "Informatik Projekte",
         items: [
-          { text: "Übersicht", link: "/projects" },
-          { text: "Snake", link: "/projects/snake" },
-          { text: "Forex bots", link: "/projects/forexBots" },
-          { text: "1. Webseite", link: "/projects/fbwebv1" },
+          { text: "Übersicht", link: "/projects/" },
+          { text: "Snake", link: "/projects/snake/" },
+          { text: "Forex bots", link: "/projects/forexBots/" },
+          { text: "1. Webseite", link: "/projects/fbwebv1/" },
           {
             text: "Financial Statment Desktop",
-            link: "/projects/financialStatmentDesktop",
+            link: "/projects/financialStatmentDesktop/",
           },
           {
             text: "Financial Statment Web",
-            link: "/projects/financialStatmentWeb",
+            link: "/projects/financialStatmentWeb/",
           },
           {
             text: "WalletX App",
-            link: "/projects/walletX",
+            link: "/projects/walletX/",
           },
         ],
       },
