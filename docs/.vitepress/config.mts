@@ -8,6 +8,9 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
+    outline: {
+      level: [2, 3],
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
@@ -51,6 +54,10 @@ export default defineConfig({
           {
             text: "Smart Exam",
             link: "/projects/smartExam/",
+          },
+          {
+            text: "Movie Match",
+            link: "/projects/movieMatch/",
           },
         ],
       },
