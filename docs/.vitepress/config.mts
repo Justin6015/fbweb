@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Friedrich Beckmann",
   description: "A Site about Friedrich Beckmann",
+  lang: "de-DE",
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
@@ -46,6 +47,10 @@ export default defineConfig({
           {
             text: "Pizza Service Web",
             link: "/projects/pizzaServiceWeb/",
+          },
+          {
+            text: "Smart Exam",
+            link: "/projects/smartExam/",
           },
         ],
       },
