@@ -36,6 +36,10 @@ export default defineConfig({
             link: "/projects/financialStatmentWeb/",
           },
           {
+            text: "Dungeon Crawler",
+            link: "/projects/dungeonCrawler/",
+          },
+          {
             text: "WalletX App",
             link: "/projects/walletX/",
           },
