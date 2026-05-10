@@ -43,6 +43,10 @@ export default defineConfig({
             text: "WalletX App",
             link: "/projects/walletX/",
           },
+          {
+            text: "Pizza Service Web",
+            link: "/projects/pizzaServiceWeb/",
+          },
         ],
       },
     ],
