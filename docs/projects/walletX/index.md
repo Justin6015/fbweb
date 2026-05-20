@@ -12,7 +12,7 @@ Das Projekt begann mit einer Nutzeranalyse, in deren Rahmen wir Papierprototypen
 - Android Studio
 - Java
 
-## Screenshots
+## Galerie
 
 Foto Paperprototyp
 ![Prictur](Skizze%20E-Wallet.png)

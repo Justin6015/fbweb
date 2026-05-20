@@ -6,6 +6,9 @@ hero:
   name: "Friedrich Beckmann"
   text: "Die offizielle Webseite"
   tagline: Projekte, Kontaktdaten und mehr
+  image:
+    src: /profile_picture_3.png
+    alt: fbLogo
   actions:
     - theme: brand
       text: Informatik Projekte

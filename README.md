@@ -10,19 +10,19 @@ npm run docs:dev
 
 1. build
 
-```sh
-npm run docs:build
-```
+   ```sh
+   npm run docs:build
+   ```
 
-output: ./docs/.vitepress/dist
+   output: ./docs/.vitepress/dist
 
 2. manuell test dist
 
-```sh
-npm run docs:preview
-```
+   ```sh
+   npm run docs:preview
+   ```
 
-starts a local server with content from `./docs/.vitepress/dist`
+   starts a local server with content from `./docs/.vitepress/dist`
 
 3.1. chack firebase Account
 
