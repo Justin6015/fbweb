@@ -7,6 +7,18 @@ export default defineConfig({
   lang: "de-DE",
   cleanUrls: true,
   lastUpdated: true,
+  head: [
+    [
+      "meta",
+      {
+        name: "google-site-verification",
+        content: "26m2nPAtzWCaPBMHjj2o1dH79oNTMtjI1Ob_-gTpwpw",
+      },
+    ],
+  ],
+  sitemap: {
+    hostname: "https://deinedomain.com",
+  },
   themeConfig: {
     outline: {
       level: [2, 3],

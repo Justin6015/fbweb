@@ -30,7 +30,7 @@ npm run docs:dev
 firebase login:list
 ```
 
-maybe change account. with `"firebase login:use xxx@gmail.com`
+maybe change account. with `firebase login:use xxx@gmail.com`
 
 3.2.
 
