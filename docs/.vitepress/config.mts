@@ -9,6 +9,13 @@ export default defineConfig({
   lastUpdated: true,
   head: [
     [
+      "link",
+      {
+        rel: "icon",
+        href: "/favicon.ico",
+      },
+    ],
+    [
       "meta",
       {
         name: "google-site-verification",
