@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - name: robots
+      content: noindex, follow
+---
+
 # Mein PC Friedrich Beckmann
 
 Teile auf [Mindfactory.de](https://www.mindfactory.de/) und auf [notebooksbilliger.de](https://www.notebooksbilliger.de/) gekauft.

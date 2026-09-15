@@ -9,6 +9,10 @@ export default {
   Layout,
 
   enhanceApp({ router }) {
+    if (typeof window === "undefined" || typeof document === "undefined") {
+      return;
+    }
+
     const zoom = mediumZoom(".main img", {
       background: "var(--vp-c-bg)",
     });

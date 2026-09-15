@@ -17,7 +17,7 @@ export default defineConfig({
     ],
   ],
   sitemap: {
-    hostname: "https://deinedomain.com",
+    hostname: "https://friedrichbeckmann.de",
   },
   themeConfig: {
     outline: {
