@@ -8,6 +8,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "firebase": "^12.12.1"
+    "firebase": "^12.12.1",
+    "medium-zoom": "^1.1.0"
   }
 }

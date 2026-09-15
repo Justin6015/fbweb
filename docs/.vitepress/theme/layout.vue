@@ -68,4 +68,12 @@ provide("toggle-appearance", async ({ clientX: x, clientY: y }: MouseEvent) => {
 .VPSwitchAppearance .check {
   transform: none !important;
 }
+
+.medium-zoom-overlay {
+  z-index: 1000;
+}
+
+.medium-zoom-image--opened {
+  z-index: 1001;
+}
 </style>

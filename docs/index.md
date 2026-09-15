@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Geschäftlicher Kontakt
-    details: friedrich.beckmann2000@gmail.com, linkedin friedrich-beckmann-72a600208
+    details: "friedrich.beckmann2000@gmail.com<br>LinkedIn: friedrich-beckmann-72a600208"
   - title: Sociale Media
-    details: Instagram friedrich_jb
+    details: "Instagram: friedrich_jb"
 ---
